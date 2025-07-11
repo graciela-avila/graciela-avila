@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Graciela Avila, currently a senior majoring in Computer Engineering.
+- 👋 Hi, I’m Graciela Avila, I have a Bechelor of Science in Computer Engineering.
 - 👀 I’m interested in programming little objects to make silly projects.
-- 🌱 I’m currently learning Microsoft Azure for certification.
+- 🌱 I’m currently learning JavaScript, Node.js, and Django for app development.
 - 📫 You can reach me through my email: ggavila3@gmail.com
 - 😄 Pronouns: She/her
 
